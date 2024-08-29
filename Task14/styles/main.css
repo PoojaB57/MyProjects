@@ -1,0 +1,12 @@
+/* Style for the color box */
+.color-box {
+    width: 200px;
+    height: 100px;
+    margin: 20px 0;
+    background-color: #f8f9fa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border: 2px solid #343a40;
+}
